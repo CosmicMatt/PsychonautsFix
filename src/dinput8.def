@@ -1,0 +1,6 @@
+EXPORTS
+    DirectInput8Create=DirectInput8Create_Proxy
+    DllCanUnloadNow=DllCanUnloadNow_Proxy PRIVATE
+    DllGetClassObject=DllGetClassObject_Proxy PRIVATE
+    DllRegisterServer=DllRegisterServer_Proxy PRIVATE
+    DllUnregisterServer=DllUnregisterServer_Proxy PRIVATE
