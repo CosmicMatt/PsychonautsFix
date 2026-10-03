@@ -9,7 +9,7 @@ Features Added/Atomatically Enabled:
   - Fixes endless spinning glitch on non X360 controllers
   - Patches button prompts to use Xbox button icons
 
-  ### #Display
+  ### Display
   - Borderless window
   - Fixed performance issues at high resolutions when Vsync was enabled
   - Resolution settings show aspect ratio next to each preset
